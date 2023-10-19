@@ -1,16 +1,4 @@
-
-.pixel {
-  position: absolute;
-  top: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  opacity: 0.5;
-  filter: sepia(0.6);
-}
-
-
 .page {
-  position: relative;
   margin: 0 auto;
   background-color: #fff;
 }
