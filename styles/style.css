@@ -51,6 +51,7 @@
 .address {
   display: flex;
   flex-direction: column;
+  flex-basis: 240px;
   font: 400 18px/1.35 'Raleway', sans-serif;
   color: #000;
 }
