@@ -244,7 +244,7 @@
   grid-template-rows: min-content;
   grid-template-columns: calc((100% - 50px) / 3) 1fr;
   column-gap: 25px;
-  margin: 181px 0 0;
+  margin: 180px 0 0;
   padding: 0 50px;
 }
 
@@ -280,7 +280,7 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  margin: 162px 0 90px;
+  margin: 160px 0 90px;
   padding: 0 50px;
 }
 
