@@ -1,3 +1,14 @@
+/*
+.pixel {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0.5;
+  filter: sepia(0.6);
+}
+*/
+
 .page {
   margin: 0 auto;
   background-color: #fff;
@@ -86,12 +97,11 @@
   font: 700 100px/1.15 'Raleway', sans-serif;
   color: #fff;
   text-transform: uppercase;
-  letter-spacing: 30px; 
+  letter-spacing: .3em; 
 }
 
 .aligned-text_center {
   align-self: center;
-  padding: 0 20px 0 0;
 }
 
 .aligned-text_right {
@@ -99,7 +109,7 @@
 }
 
 .aligned-letter {
-  padding: 0 33px;
+  letter-spacing: .6em;
 }
 
 .cover__description {
