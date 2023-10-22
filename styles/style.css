@@ -101,7 +101,7 @@
   letter-spacing: .6em;
 }
 
-.alined-last-letter {
+.no-letter-spacing {
   letter-spacing: 0;
 }
 
