@@ -14,7 +14,5 @@ a website is to acquire skills in the use of HTML, CSS, BEM, Flex, Grid
 - Flex
 - Grid
 
-#### Deploy
-
-
 #### Website link
+- https://programistic.github.io/ono-tebe-nado/
